@@ -5,6 +5,7 @@
 library('xlsx')
 
 # Assuming the file is copied to this directory...
+#setwd("C:/Users/elton/Documents/R/idaho-public-workers") #I decided I would rather keep the data in OneDrive instead of git
 setwd("C:/Users/elton/OneDrive/Documents/Data Science/DataScience_Idaho_IT")
 
 # If I want to automate copying the file from the download folder...
